@@ -1,0 +1,48 @@
+User= 
+{
+FirstName : 'John',
+LastName  : 'Doe',
+Address : 'Los Angels California',
+BasicInfo : 'Experienced Senior Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in C++, ASP.NET MVC, jQuery, Microsoft Office, and ASP.NET Web API.',
+Contact : {Email:'johndoe@gmail.com',Mobile:'9898989898'}
+DashBoardInfo : {TodayProfileViews:108,PostViews:12,SearchAppearence:10}
+
+}
+
+Visitors: [{Name:'Bradon Wilson',Designation:'Senior UX Designer',Avatar:''},
+		   {Name:'Kyle Fisher',Designation:'Product Designer',Avatar:''},
+		   {Name:'Darlene Black',Designation:'HR Manager',Avatar:''},
+		   {Name:'Jessi Lemo',Designation:'Senior UI Designer',Avatar:''}
+		   ]
+		   
+Projects :[{Name:'Zara redesign concept', Type:'UX/UI Design', TillDate: '13.06.2020', Image:''},
+		   {Name:'SCTHON event brand identity', Type:'Graphic Design', TillDate: '05.03.2020', Image:''},
+		   {Name:'Forever 21 event brand identity', Type:'UX/UI Design', TillDate: '12.12.2019', Image:''},
+		   {Name:'Max fashions Website redesign', Type:'UX/UI Design', TillDate: '22.06.2019', Image:''},
+		   {Name:'Nike event brand identity', Type:'UX/UI Design', TillDate: '14.03.2019', Image:''}
+		   ]
+		   
+SkillAndEndoresments:[{'Type':'User Experience', 'People' : [{Avatar:'',Name:''},{Avatar:'',Name:''},{Avatar:'',Name:''},{Avatar:'',Name:''},{Avatar:'',Name:''}]},
+						{'Type':'User Interface', 'People' : [{Avatar:'',Name:''},{Avatar:'',Name:''},{Avatar:'',Name:''},{Avatar:'',Name:''},{Avatar:'',Name:''}]},
+						{'Type':'Brand Identity', 'People' : [{Avatar:'',Name:''},{Avatar:'',Name:''},{Avatar:'',Name:''},{Avatar:'',Name:''},{Avatar:'',Name:''}]},
+						{'Type':'Application Design', 'People' : [{Avatar:'',Name:''},{Avatar:'',Name:''},{Avatar:'',Name:''},{Avatar:'',Name:''},{Avatar:'',Name:''}]}
+					 ]
+
+Courses :[{Name:'UI Design with Kendo' ,Viewers: '22,522'},
+		  {Name:'UI Design with Angular Material Design' ,Viewers: '22,522'},
+		  {Name:'Basics of CSS', Viewers: '22,522'},
+		  {Name:'Master in Your UX Design skills', Viewers: '22,522'}
+		  ]			
+
+
+Experience : [{Type:'Self Employed',Name:'Freelance UI/UX Designer',From:'Mar 2017',To:'',Duration:'3 yrs 6 mos','Description':'Work with web and Studios as a freelancer.',Area:'Around the world'},
+			  {Type:'Up work',Name:'UI/UX Designer',From:'Mar 2017',To:'',Duration:'3 yrs 6 mos','Description':'New work with upwork system. Work in next areas : UX/UI design, graphic design and Interaction design',Area:'International'}
+			  ]		
+
+Education : [
+			{'University':{Name: 'Moscow international state University', Location: 'Los Angels'}, Degree:'',From : '2013', To: '2016', 
+			  Description :''},
+			  {'University':{Name: 'Moscow international state University', Location: 'Los Angels'}, Degree:'',From : '2011', To: '2013', 
+			  {'University':{Name: 'Moscow international state University', Location: 'Los Angels'}, Degree:'',From : '2011', To: '2013', 
+			  Description :''}
+			]			  

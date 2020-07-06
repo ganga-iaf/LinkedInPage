@@ -8,6 +8,7 @@ import { MatSliderModule } from '@angular/material/slider';
 import {MatTabsModule} from '@angular/material/tabs';
 import { MatCardModule} from '@angular/material/card';
 import { MatGridListModule} from '@angular/material/grid-list';
+import { MatDividerModule} from '@angular/material/divider';
 import { HeaderComponent } from './Components/header/header.component';
 import { FooterComponent } from './Components/footer/footer.component';
 import { UserBasicInfoComponent } from './Components/user-basic-info/user-basic-info.component';
@@ -42,7 +43,8 @@ import { UserMainContentComponent } from './Components/user-main-content/user-ma
     MatSliderModule,
     MatTabsModule,
     MatCardModule,
-    MatGridListModule
+    MatGridListModule,
+    MatDividerModule
   ],
   providers: [],
   bootstrap: [AppComponent]

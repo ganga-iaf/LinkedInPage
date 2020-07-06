@@ -3,6 +3,16 @@
     <app-user-main-content></app-user-main-content>
 </div>
 <div class="column side">
-    <app-visitor></app-visitor>
+    <mat-card>
+        <mat-card-header>
+            <mat-card-title>Visitors</mat-card-title>
+            <mat-divider></mat-divider>
+        </mat-card-header>
+        <mat-card-content>
+            <ng-container *ngFor="let visitor of Visitors">
+                <app-visitor [visitor]="visitor"></app-visitor>
+            </ng-container>
+        </mat-card-content>
+    </mat-card>
     <app-course></app-course>
 </div>
